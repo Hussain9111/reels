@@ -1,0 +1,5 @@
+meta-token.txt
+.env
+*.bak
+__pycache__/
+
